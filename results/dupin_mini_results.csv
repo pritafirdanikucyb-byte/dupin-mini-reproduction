@@ -1,0 +1,4 @@
+,TPR,TNR,AUROC,TP,FP,TN,FN
+DUPIN-mini (pretrain+few-shot),0.967,0.967,0.987,29.0,1.0,29.0,1.0
+No-pretrain (ablation),1.0,0.867,0.903,30.0,4.0,26.0,0.0
+One-class (Isolation Forest),1.0,0.867,0.93,30.0,4.0,26.0,0.0
